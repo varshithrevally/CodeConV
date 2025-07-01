@@ -1,0 +1,28 @@
+
+export const PROGRAMMING_LANGUAGES: string[] = [
+  'Python',
+  'JavaScript',
+  'TypeScript',
+  'Java',
+  'C++',
+  'C#',
+  'Go',
+  'Rust',
+  'Swift',
+  'Kotlin',
+  'PHP',
+  'Ruby',
+  'Scala',
+  'Haskell',
+  'R',
+  'Dart',
+  'Lua',
+  'Perl',
+  'Objective-C',
+  'SQL',
+  'Elixir',
+  'Clojure',
+  'F#',
+  'Assembly',
+  'Shell Script'
+];

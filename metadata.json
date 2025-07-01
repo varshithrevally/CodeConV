@@ -1,0 +1,5 @@
+{
+  "name": "CodeConV",
+  "description": "An application to convert code snippets from one programming language to another using the Gemini API. It features a side-by-side view for input and output, with searchable dropdowns for language selection.",
+  "requestFramePermissions": []
+}
