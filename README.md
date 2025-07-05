@@ -2,7 +2,7 @@
 
 A sleek and powerful code conversion tool that translates code snippets between various programming languages using the Google Gemini API. Built with React, TypeScript, and Tailwind CSS.
 
-**Live Demo**: This project is ready to be deployed! Once you deploy to Netlify, you can add your link here.
+**Live Demo**: [This project is ready to be deployed! Once you deploy to Netlify, you can add your link here.](https://codeconvgemini.netlify.app/)
 
 ---
 
