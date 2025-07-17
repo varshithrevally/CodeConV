@@ -29,11 +29,11 @@ export const convertCode = async (
 
   try {
     const response = await ai.models.generateContent({
-      model: 'gemini-2.5-flash-preview-04-17',
+      model: 'models/gemini-2.5-flash',
       contents: prompt,
     });
     
-    let translatedText = response.text.trim();
+    let translatedText = response.text!.trim();
     const fenceRegex = /^```(?:\w*)?\s*\n?(.*?)\n?\s*```$/s;
     const match = translatedText.match(fenceRegex);
     if (match && match[1]) {
